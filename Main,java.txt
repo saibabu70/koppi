@@ -1,0 +1,18 @@
+class Ramya {
+    int no;
+    String name;
+    Constructor (int sno,String sname)
+    {
+System.out.println("Student no="+sno);
+System.out.println("Sudent name="+sname);
+    }
+
+
+}
+class My
+{
+    public static void main (String [] args)
+    {
+        Constructor obj = new Constructor (101,"sai");
+    }
+}

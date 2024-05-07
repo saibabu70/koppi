@@ -1,0 +1,124 @@
+ACKNOWLEDGEMENT
+We should like to take this opportunity to extend our gratitude to the following revered persons, without whose immense support, completion of this project would not have been possible.
+
+We are sincerely grateful to our Guide Mr. Meghesh M. for his constant support, significant insights and for generating in us a profound interest for this subject that kept us motivated during the entire duration of this project.
+
+We would also like to express our sincere gratitude to Mr. Sudip Banerjee and other faculties of School Of Management, for their assistance and encouragement. We are grateful to for their constant support for our Summer Internship Projects.
+
+Last but not the least, we would like to extend our warm regards to our families and peers who have kept supporting us and always had faith in our work.
+
+
+
+
+INTRODUCTION
+Stock market analysis enables investors to identify the intrinsic worth of a security even before investing in it. All stock market tips are formulated after thorough research by experts. Stock analysts try to find out activity of an instrument/sector/market in future. By using stock analysis, investors and traders arrive at equity buying and selling decisions. Studying and evaluating past and current data helps investors and traders to gain an edge in the markets to make informed decisions. Fundamental Research and Technical Research are two types of research used to first analyse and then value a security.A growing trend in today's inconsistent financial times is self-research and planning. Taking control and planning one's financial future has become very important for many people.
+
+There are some investors that don't believe stock research is that important. They instead relay on stock tips and other unreliable sources. However, if they are concerned about their financial future, analysis is crucial for spotting stocks that can make their small amount of money go farther than in any savings or money market account. Stock research is important because taking the time to look over the financial history of the companies that one is thinking of investing in, will give the prospective buyer a better sense of the future. While no one can say with certainty that a stock will go up in value, taking the time to evaluate the past few years of the company's growth can give some insight into the possibility.
+
+When someone is putting their hard earned money into a stock, they need to research that stock in order to make sure that the company is not laden with too much debt, is generating sufficient, have satisfied customers, are growing cash flows, investing in their future and are trading at a reasonable market valuation.
+
+By reviewing the stock's financial reports, one can make an educated decision whether the company is stable, growing and has an improving future. There are far too many people who invest in weak companies hoping for a turn-around. Often, the best investments are made in stocks of companies that are already doing well and have a strong basis for continued growth
+
+Investors should be wary of companies with negative cash-flow, large and increasing debt, declining revenue or management turn-over. These are all signs that one or more aspects of the company have serious issues. Since there are plenty of good companies to invest in, investors should consider whether investing in weak companies is prudent.
+
+No one wants to choose a stock that will do poorly. By taking the time to look at the company's stockholder reports, news releases, industry publications and other publicly available information with an eye like a financial analyst, the financial future doesn't have to come as a surprise, but rather as the product of a well-planned financial strategy. While this can be easily done with professional help, anyone can crunch the numbers to make sure that their money is being well-spent; all it takes is an eye on the future as one looks at the company's past history.
+
+INDUSTRY OVERVIEW
+What is the Stock Market?
+The stock market refers to the collection of markets and exchanges where regular activities of buying, selling, and issuance of shares of publicly-held companies take place. Such financial activities are conducted through institutionalized formal exchanges or Over-the-counter (OTC) marketplaces which operate under a defined set of regulations. There can be multiple stock trading venues in a country or a region which allow transactions in stocks and other forms of securities. While both terms - stock market and stock exchange - are used interchangeably, the latter term is generally a subset of the former. If one says that she trades in the stock market, it means that she buys and sells shares/equities on one (or more) of the stock exchange(s) that are part of the overall stock market. The leading stock exchanges in the U.S. include the New York Stock Exchange (NYSE), Nasdaq, and the Cboe Options Exchange (CBOE). These leading national exchanges, along with several other exchanges operating in the country, form the stock market of the U.S. Though it is called a stock market or equity market and is primarily known for trading stocks/equities, other financial securities - like exchange traded fund (ETF), corporate bonds and derivatives based on stocks, commodities, currencies, and bonds - are also traded in the stock markets.
+
+Understanding the Stock Market
+While today it is possible to purchase almost everything online, there is usually a designated market for every commodity. For instance, people drive to city outskirts and farmlands to purchase Christmas trees, visit the local timber market to buy wood and other necessary material for home furniture and renovations, and go to stores like Walmart for their regular grocery supplies.
+
+Such dedicated markets serve as a platform where numerous buyers and sellers meet, interact and transact. Since the number of market participants is huge, one is assured of a fair price. For example, if there is only one seller of Christmas trees in the entire city, he will have the liberty to charge any price he pleases as the buyers won’t have anywhere else to go. If the number of tree sellers is large in a common marketplace, they will have to compete against each other to attract buyers. The buyers will be spoiled for choice with low- or optimum-pricing making it a fair market with price transparency. Even while shopping online, buyers compare prices offered by different sellers on the same shopping portal or across different portals to get the best deals, forcing the various online sellers to offer the best price.
+
+A stock market is a similar designated market for trading various kinds of securities in a controlled, secure and managed environment. Since the stock market brings together hundreds of thousands of market participants who wish to buy and sell shares, it ensures fair pricing practices and transparency in transactions. While earlier stock markets used to issue and deal in paper-based physical share certificates, the modern day computer-aided stock markets operate electronically.
+
+History of Stock Exchange in India
+The stock exchange or market is a place where stocks, shares and other long-term commitments or investment are bought and sold.
+
+The economic significance of a stock market results from the increased marketability resulting from a stock exchange share quotation. The stock exchange is an essential institution for the existence of the capitalist system of the economy and for the smooth functioning of the corporate form of organisation.
+
+The Securities Contracts (Regulation) Act of 1-956 defines, a stock exchange as “an association, organisation or body of individuals, whether incorporated or not, established for the purpose of assisting, regulating and controlling, business in buying, selling and dealing in securities.”
+
+Stock Exchanges are noted as “an essential concomitant of the Capitalistic System of economy. It is indispensable for the proper functioning of corporate enterprise. It brings together large amounts of capital necessary for the economic progress of a country. It is a citadel of capital and pivot of money market. It provides necessary mobility to capital and indirect the flow of capital into profitable and successful enterprises. It is the barometer of general economic progress in a country and exerts a powerful and significant influence as a depressant or stimulant of business activity.”
+
+The first organised stock exchange in India was started in 1875 at Bombay and it is stated to be the oldest in Asia. In 1894 the Ahmedabad Stock Exchange was started to facilitate dealings in the shares of textile mills there. The Calcutta stock exchange was started in 1908 to provide a market for shares of plantations and jute mills.
+
+Then the madras stock exchange was started in 1920. At present there are 24 stock exchanges in the country, 21 of them being regional ones with allotted areas. Two others set up in the reform era, viz., the National Stock Exchange (NSE) and Over the Counter Exchange of India (OICEI), have mandate to have nation-wise trading.
+
+They are located at Ahmedabad, Vadodara, Bangalore, Bhubaneswar, Mumbai, Kolkata, Kochi, Coimbatore, Delhi, Guwahati, Hyderabad, Indore, Jaipur’ Kanpur, Ludhiana, Chennai Mangalore, Meerut, Patna, Pune, Rajkot. The Stock Exchanges are being administered by their governing boards and executive chiefs. Policies relating to their regulation and control are laid down by the Ministry of Finance. Government also Constituted Securities and Exchange Board of India (SEBI) in April 1988 for orderly development and regulation of securities industry and stock exchanges.
+
+What is the future of stock market?
+In a real sense, the stock market is a reflection of the economy and a function of supply and demand.
+
+Indian economy is one of the fastest-growing economies in the world and is expected to touch a 5 trillion dollar mark by 2025 to become the third-largest economy in the world. India has a very young and aspiring population with rising average income and has shown an increase in its growth rates in every decade since independence. Developed countries like Japan or the USA, have an older population and most of the market is saturated and less scope for development.
+
+We have a habit of saving and investment unlike the US, which is based on debt. Government and citizens have a lower level of debt compared to other economies. India's GDP is currently estimated at around USD 2.72 trillion and to achieve 5 trillion economies as a plan of the current government, India needed to grow on average at 9 to 10 percent per year in real terms 2020 to 2024 to achieve the target.
+
+Here it becomes important to develop important things like corporate policies, FDI inflows, job creation, infrastructure, etc. The government is piloting the economy frontward by changing so many policies. Demonetization, IBC, and other cleanup reforms, other constructive reforms, tax cuts, privatization, were some of the important and strict measures, which could be a hindrance, in the short, term but will surely be a great success in the future.
+
+A stock exchange represents the performance of the companies listed on the stock exchange cumulatively, thus giving the investor an idea of the financial growth of the region. Microeconomic and macroeconomic factors, the business environment, the legal structure, and tax policies applicable to each economy affect stock market movements.
+
+Sensex was started in 1979, from that day until now it is at around 40000 levels similarly Nifty was established in 1996 and is at 11000 levels, so if someone had invested in nifty or Sensex at an initial level he would have generated fantastic returns by now. However, out of a population of 1.3 billion, there are around two crores investors in the equity market.
+
+The good news is the no. of Demat accounts has crossed four crores that is an essential part of investing. The number of active Demat accounts opened CDSL has reached 2.5 crores. From 2015, Central Depository Services Ltd (CDSL) alone has added 1.5 crore Demat accounts. The main reason for people not participating in the economy is awareness and knowledge of financial products and markets. The low-level participation from the female side in the financial market is really a serious issue.
+
+Fear and nervousness factor is there in short term due to the slow economic engine and COVID situation, however, for the longer-term; it is likely to rocket in the future. The fast recovery in the economy after lockdown will depend on government policies and reforms. If the government brings more reforms, it is likely to help the equity market. Demand creation is more important, stimulus package was a relief for many sectors like MSMEs.
+
+It becomes important for retail investors to look market from a different level, know their risk appetite and investment goals, and set a disciplined approach. The magic mantra is value investing. If you plant a mango tree, you should wait for 10-12 years to reap the fruit. Similarly, Asset allocation, diversification, regular investment are some of the important factors one should know before investing.
+
+Securities and Exchange Board of India (SEBI) have been taking necessary steps to protect the investors' interest and have brought measures to promote financial literacy. Regulatory bodies like SEBI, governments, and RBI has taken many measures to cater to demand and transparency in the market. Due to global situations, China-US trade war, many companies are planning to shift their base to India. After globalization the world seems to be borderless, many trade barriers have been removed, and people have more faith now, idea of capitalism facilitates the maximization of wealth.
+
+Investors globally and at the domestic level also are looking forward to investing in the Indian market. The market always looks at the future. In the long term, economic fundamentals propel the market in the long-term. Thus the Indian stock market is about to perform well in near future.
+
+Some of the important facts for the development of the stock market could be the following:
+
+ The literacy rate has spurred up from 47 % to 74 % (2001 to present) and now people are more aware of the market.
+ Development in science and technology has helped to cut the barrier, now anyone can operate his account from anywhere.
+ India is one of the largest demanding markets and active participation by foreign players has created a demand.
+ The developed market is already saturated and the rate of return is low, so investors are looking for investment in new markets, which is developing.
+ Stable government, fair transparent policies are important factors that decide the fate of the stock market.
+ No. of first-time investors since 2019 is an all-time high.
+Review of Literature
+The stock returns are an area of study wherein many research scholars have shown immense interest for past several years. A brief review of literature will help in understanding the relevance of the content analysis in the area of stock returns.
+
+The researches in social sciences or in the field of economics depend in one way or the other on careful reading of written materials and the research work done by many research scholars on similar subjects. Considering this fact, the importance of content analysis becomes very significant.
+
+Barelson (1952) defined content analysis as a technique of research that is systematic representation of the matter of communication. According to Stone (1964), the content analysis is a methodology or procedure which can be used to access particular information based on the past references. The definition of content analysis requires that the inference be derived from the counts of frequency to place a number of standard methods on the borderline of acceptability (Leites & Poo, 1942).
+
+The various areas to which the technique of content analysis can be applied is based on the user’s skill and ingenuity in framing valid category formats as discussed in the research conducted by Chelimsky (1989). The content analysis was also performed by Wisniewski and Yekini (2014) to predict the stock returns based on content of annual reports narrative. The computational linguistics tool was used by the researchers to study the qualitative aspect of the annual reports of the companies listed in United Kingdom. The paper concluded that the investors should pursue the annual report narrative because it may contain the information which has not yet discounted in the share prices. Skjeltorp and Odegaard (2009) investigated the information content of stock market liquidity. The researchers also evaluated the forecasting power of market liquidity. The stock returns are influenced by variety of factors and the research scholars have shown interest to study these factors in detail. A content analysis of the literature will help us to understand the key issues which gained more attraction from the research scholars and identify the area which require more research work.
+
+RESEARCH METHODOLOGY
+The stock returns is an area of study wherein many research scholars have shown immense interest for past several years. A brief review of literature will help in understanding the relevance of the content analysis in the area of stock returns.
+
+The researches in social sciences or in the field of economics depend in one way or the other on careful reading of written materials and the research work done by many research scholars on similar subjects. Considering this fact, the importance of content analysis becomes very significant.
+
+Barelson (1952) defined content analysis as a technique of research that is systematic representation of the matter of communication. According to Stone (1964), the content analysis is a methodology or procedure which can be used to access particular information based on the past references. The definition of content analysis requires that the inference be derived from the counts of frequency to place a number of standard methods on the borderline of acceptability (Leites & Poo, 1942).
+
+The various areas to which the technique of content analysis can be applied is based on the users skill and ingenuity in framing valid category formats as discussed in the research conducted by Chelimsky (1989). The content analysis was also performed by Wisniewski and Yekini (2014) to predict the stock returns based on content of annual reports narrative. The computational linguistics tool was used by the researchers to study the qualitative aspect of the annual reports of the companies listed in United Kingdom. The paper concluded that the investors should pursue the annual report narrative because it may contain the information which has not yet discounted in the share prices. Skjeltorp and Odegaard (2009) investigated the information content of stock market liquidity. The researchers also evaluated the forecasting power of market liquidity. The stock returns are influenced by variety of factors and the research scholars have shown interest to study these factors in detail. A content analysis of the literature will help us to understand the key issues which gained more attraction from the research scholars and identify the area which require more research work.
+
+Research Gap
+The previous studies which involved analysis of literature primarily focused on either using qualitative or quantitative tools for analysis. The present study is one of its kinds which involved using both the qualitative as well as quantitative measures for analysing the literature relating to stock returns. The important determinants or factors of stock returns are analysed first qualitatively using the abstracts, introduction, literature review, methodology, analysis and conclusions of the selected 368 research papers. Further analysis has been performed using frequency, counts and percentages to find out the other important aspects like appearance in journals, number of authors, and contribution of authors country-wise and appearance of authors in the select research papers.
+
+Data has been collected via internet and analysis has been done on its basis. The data collection was from Secondary data collection method.
+
+Contribution of the Study
+The present study involves identification of factors or determinants of stock returns. The study will indeed help many researchers and academicians to identify various research gaps relating to stock returns. The paper provides the analysis based on journals which will help the researchers to identify key journals which they can refer for literature review, identify factors influencing stock returns and can publish their quality research papers. The study also recognizes the country-wise contribution of authors.
+
+Objectives of the Study
+1. To identify the determinants of stock returns on which considerable research work is done.
+2. To analyze the literature on stock returns using qualitative and quantitative measures.
+Data Analysis and Interpretation
+Identification of Key Issues related to Stock
+For the purpose of analysis, key issues or factors relating to stock return are identified on which a significant research work is done by research scholars for last 15 years. The identified key issues are:
+
+1. Predictability and Forecasting
+2. Volatility and Variability
+3. Inflation
+4. Risk and Liquidity
+5. Oil Price Moments/Shocks
+6. Cross-section and Correlation
+7. Other issues
+Keeping in mind the above-mentioned points, study of 2 shares has been done. The two shares are of-
+

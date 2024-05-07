@@ -1,0 +1,12 @@
+import pandas as pd
+import numpy as np
+dataset=pd.read_excel("D:\Exp2.xlsx")
+print(dataset)
+
+import pandas as pd
+dataset={'Country':['India','Brazil','Spain','China','Canada'],
+         'Age':[22,35,34,27,34],
+         'Salary':[25000,32000,34000,28000,39000],
+         'Purchased':['Yes','No','No','Yes','No']}
+df=pd.DataFrame(dataset)
+Print(df)

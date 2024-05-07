@@ -1,0 +1,2 @@
+sudo mysql -u admin -h dbinstance-1.clxexwqissua.us-east-1.rds.amazonaws.com -p 
+apt-get install mysql-client
